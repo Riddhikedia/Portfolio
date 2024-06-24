@@ -41,8 +41,9 @@ function App() {
     <ThemeProvider theme={darkTheme}>
       <BrowserRouter>
         <Navbar />
+          
         <Body> 
-          <StartCanvas />
+        <StartCanvas />
           <div>
             <Hero />
             <Wrapper>

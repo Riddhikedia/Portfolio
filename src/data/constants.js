@@ -6,8 +6,7 @@ export const Bio = {
       "UI/UX Designer",
       
     ],
-    description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    description: "I am highly determined, devoted and consistently ready to enhance my skills and knowledge. Believing that learning is a lifelong journey, I seek out new opportunities and challenges to continually develop my abilities. With a strong dedication to excellence, I am poised to make meaningful contributions and thrive in any environment.",
     github: "https://github.com/Riddhikedia",
     resume:
       "https://drive.google.com/file/d/1rt2kcgB0V1NoIjFF0hPuhGuyloHmxuz7/view",
